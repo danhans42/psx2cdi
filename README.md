@@ -1,6 +1,6 @@
 # psx2cdi
 
-PSX2CDI by @danhans42 - 23082022
+psx2cdi by @danhans42 - 23082022
 
     ** What is it? **
     Simple sketch to get a PlayStation 1 pad working as Philips CD-i controller. The one 
